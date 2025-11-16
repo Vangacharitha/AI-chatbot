@@ -1,6 +1,7 @@
 🤖 n8n-Automation-AI-Mentor-Chatbot
 AI Mentor Chatbot using n8n, Google Gemini & Telegram
 
+
 This repository contains a fully automated AI Mentor Chatbot built using n8n, Google Gemini LLM, and the Telegram Bot API.
 The chatbot helps students ask technical doubts related to Python, EDA, Machine Learning, and Deep Learning and receive instant AI-generated explanations — with session memory and without writing any backend code.
 
@@ -58,6 +59,7 @@ Maintains session context
 Telegram SendMessage Node
 
 Sends final AI response back to student
+
 
 🔧 Tech Stack / Nodes Used
 Component / Node	Description
